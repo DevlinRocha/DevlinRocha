@@ -2,11 +2,11 @@
 
 ---
 
-:computer: Front-end web developer
+💻 Front-end web developer
 
-:bust_in_silhouette: Music, gaming, and tech enthusiast
+👤 Music, gaming, and tech enthusiast
 
-:round_pushpin: San Francisco Bay Area
+📍 San Francisco Bay Area
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-Follow me on [Instagram](https://www.instagram.com/devlincodes/) :point_left:
+### Follow me on [Instagram](https://www.instagram.com/devlincodes/) :point_left:
 
 
 <!--
