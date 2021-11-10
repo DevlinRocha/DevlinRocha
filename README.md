@@ -11,7 +11,7 @@
 ---
 
 - 🚀 I’m currently working on completing [The Odin Project](https://www.theodinproject.com/)
-- 🔥 My current project is [Where's Waldo?](https://github.com/DevlinRocha/wheres-waldo), a full-stack photo tagging application
+- 🔥 My current project is [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/), a full-stack photo tagging application
 - 💞 I love working with React and TypeScript
 - 🌱 I’m going to learn Node.js and Express to become a full-stack developer
 
