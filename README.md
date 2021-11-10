@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Devlin!
+### Hey there! 👋 I'm `Devlin`!
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Follow me on [Instagram](https://www.instagram.com/devlincodes/) :point_left:
+### Follow me on [`Instagram`](https://www.instagram.com/devlincodes/) :point_left:
 
 
 <!--
