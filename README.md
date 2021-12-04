@@ -1,6 +1,4 @@
-### Hey there! 👋 I'm `Devlin`!
-
----
+# Hey there! 👋 I'm `Devlin`!
 
 💻 Front-end web developer
 
@@ -8,16 +6,23 @@
 
 📍 San Francisco Bay Area
 
----
+## Projects 🏗️
 
-- 🚀 I’m currently working on completing [The Odin Project](https://www.theodinproject.com/)
-- 🔥 My current project is [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/), a full-stack photo tagging application
-- 💞 I love working with React and TypeScript
-- 🌱 I’m going to learn Node.js and Express to become a full-stack developer
+🔥 My most recent project is [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/), a full-stack photo tagging application
 
----
+👨‍💻 My current project is [Banter](https://github.com/DevlinRocha/banter), a full-stack Discord clone
 
-### Follow me on [`Instagram`](https://www.instagram.com/devlincodes/) :point_left:
+💞 I love working with React and TypeScript
+
+🚀 I’m currently working on completing [The Odin Project](https://www.theodinproject.com/)
+
+🌱 I’m going to learn Node.js and Express to become a full-stack developer
+
+## Social Media 💬
+
+[`Twitter`](https://twitter.com/DevlinRocha) 👈
+
+[`Instagram`](https://www.instagram.com/devlinrocha/) 👈
 
 
 <!--
