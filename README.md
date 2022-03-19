@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm `Devlin`!
 
-💻 Front-end web developer
+💻 Frontend web developer
 
 👤 Music, gaming, and tech enthusiast
 
@@ -8,21 +8,27 @@
 
 ## Projects 🏗️
 
-🔥 My most recent project is [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/), a full-stack photo tagging application
+❤️‍🔥 My most recent project is [Banter](https://github.com/DevlinRocha/banter) - a feature packed Discord clone
 
-👨‍💻 My current project is [Banter](https://github.com/DevlinRocha/banter), a full-stack Discord clone
+👨‍💻 Before that, I created [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/) - a photo tagging application
 
-💞 I love working with React and TypeScript
+👀 I'm currently working on [Pokémon Roulette](https://github.com/DevlinRocha/pokemon-roulette) - a web version of "Who's That Pokémon" from the anime
 
-🚀 I’m currently working on completing [The Odin Project](https://www.theodinproject.com/)
+## About Me 🙋‍♂
 
-🌱 I’m going to learn Node.js and Express to become a full-stack developer
+💞 I love creating things with TypeScript
+
+🚀 I completed [The Odin Project](https://www.theodinproject.com/) to teach myself how to code
+
+🌱 I'm going to learn Node.js and Express to become a full stack developer
 
 ## Social Media 💬
 
-[`Twitter`](https://twitter.com/DevlinRocha) 👈
+- [`Twitter`](https://twitter.com/DevlinRocha)
 
-[`Instagram`](https://www.instagram.com/devlinrocha/) 👈
+- [`Instagram`](https://www.instagram.com/devlinrocha/)
+
+- [`LinkedIn`](https://www.linkedin.com/in/devlinrocha/)
 
 
 <!--
