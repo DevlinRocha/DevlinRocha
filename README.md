@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm `Devlin`!
 
-💻 Frontend web developer
+💻 Software engineer
 
 👤 Music, gaming, and tech enthusiast
 
