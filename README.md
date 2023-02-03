@@ -6,16 +6,6 @@
 
 📍 San Francisco Bay Area
 
-## Projects 🏗️
-
-❤️‍🔥 My biggest project is [Banter](https://banter-kappa.vercel.app/) - a feature packed Discord clone
-
-👨‍💻 Before that, I made [Where's Waldo?](https://devlinrocha.github.io/wheres-waldo/#/) - a photo tagging application
-
-🙌 My most recent project is [VVorlde](https://vvordle.vercel.app/) - a Wordle clone recreated with Vue
-
-👀 I've also created [Pokémon Roulette](https://pokemon-roulette.vercel.app/) - a web version of "Who's That Pokémon" from the anime
-
 
 
 ## About Me 🙋‍♂
@@ -30,13 +20,21 @@
 
 
 
-## Social Media 💬
+<details>
+<summary><h3>Social Media 💬</h3></summary>
 
 - [`Twitter`](https://twitter.com/DevlinRocha)
+
+- [`YouTube`](https://www.youtube.com/@DevlinRochaa)
+
+- [`Twitch`](https://www.twitch.tv/DevlinRochaa)
+
+- [`Discord`](https://discord.gg/S4k6dKQvaX)
 
 - [`Instagram`](https://www.instagram.com/devlinrocha/)
 
 - [`LinkedIn`](https://www.linkedin.com/in/devlinrocha/)
+</details>
 
 
 
