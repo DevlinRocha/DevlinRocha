@@ -1,1 +1,1 @@
-# Hey there, I'm `Devlin`! 👋
+# hey there, i'm `Devlin`! 👋
